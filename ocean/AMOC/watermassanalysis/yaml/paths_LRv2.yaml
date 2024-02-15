@@ -1,0 +1,8 @@
+prefix: v2.LR.piControl.mpaso.hist.am.timeSeriesStatsMonthly
+results:
+    0501-0502: /pscratch/sd/k/katsmith/v2.1Paper/v2Extension
+    0524-0525: /pscratch/sd/k/katsmith/v2.1Paper/v2Extension
+meshfile: /global/cfs/cdirs/e3sm/inputdata/ocn/mpas-o/EC30to60E2r2/ocean.EC30to60E2r2.210210.nc
+maskfile: /pscratch/sd/b/bmoorema/maskfiles/EC30to60E2r2_NAmodewatermasks20230915.nc
+transectfile: /pscratch/sd/b/bmoorema/maskfiles/EC30to60E2r2_NAmodewatertransects20231114.nc
+out: /pscratch/sd/a/abarthel/v2_1.paper/wmtResults/aggregated/raw
